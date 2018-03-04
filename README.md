@@ -2,6 +2,7 @@
 OOYALA - TECHNICAL TAKE HOME EXERCISE
 
 GETTING STARTED
+
 Pre-requisites:
 I have used the following software in my framework:
 - Google chrome Version 64.0
