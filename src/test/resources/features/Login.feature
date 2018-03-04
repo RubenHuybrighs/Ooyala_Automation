@@ -9,7 +9,7 @@ Feature: To test the login feature of the internet app
 	# Upon successful login, I am re-directed to the secure area
 	# I should have the option to log out
 	# After logging out I should reach the login page again	
-	#commit test
+	
 
 	#Scenario 1
 	Scenario: log in with valid username and password
