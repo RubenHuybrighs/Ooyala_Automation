@@ -7,7 +7,7 @@ I have used the following software in my framework:
 - Google chrome Version 64.0
 - Java JDK 1.8.0_161
 - Java JRE 8 161
-- Chromedriver (.exe file is located in C:\Automation)
+- Chromedriver 2.35 (.exe file is located in C:\Automation). Chromedriver can be downloaded from   https://sites.google.com/a/chromium.org/chromedriver/downloads
 - Maven dependency management (Selenium 2.53.1, JUnit 4.12, Cucumber 1.2.4, Cucumber JUnit 1.2.4) can be found in the pom.xml file
 
 Running:
